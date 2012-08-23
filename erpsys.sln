@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "erpsys", "erpsys\erpsys.csproj", "{DB78F45C-3A95-471B-A9BC-B12ED49AC3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableEditor", "C:\Program Files\MySQL\MySQL Connector Net 6.5.4\Samples\Table Editor\cs\TableEditor.csproj", "{EE6AE06F-6BAC-4265-89B3-9CB5099D2D70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB78F45C-3A95-471B-A9BC-B12ED49AC3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB78F45C-3A95-471B-A9BC-B12ED49AC3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB78F45C-3A95-471B-A9BC-B12ED49AC3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB78F45C-3A95-471B-A9BC-B12ED49AC3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE6AE06F-6BAC-4265-89B3-9CB5099D2D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6AE06F-6BAC-4265-89B3-9CB5099D2D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6AE06F-6BAC-4265-89B3-9CB5099D2D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6AE06F-6BAC-4265-89B3-9CB5099D2D70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
