@@ -1,0 +1,9 @@
+Q:\erpsys\erpsys\bin\Debug\erpsys.exe
+Q:\erpsys\erpsys\bin\Debug\erpsys.pdb
+Q:\erpsys\erpsys\obj\Debug\ResolveAssemblyReference.cache
+Q:\erpsys\erpsys\obj\Debug\erpsys.login.resources
+Q:\erpsys\erpsys\obj\Debug\erpsys.Properties.Resources.resources
+Q:\erpsys\erpsys\obj\Debug\erpsys.csproj.GenerateResource.Cache
+Q:\erpsys\erpsys\obj\Debug\erpsys.exe
+Q:\erpsys\erpsys\obj\Debug\erpsys.pdb
+q:\erpsys\erpsys\obj\Debug\erpsys.main.resources
